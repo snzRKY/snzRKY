@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @snzRKY
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning python and html/css
 - 📫 How to reach me: https://snzrky.xyz/
 
 <!---
